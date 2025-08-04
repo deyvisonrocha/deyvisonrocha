@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=vs-code&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Google Meet](https://img.shields.io/badge/Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge)
+![Google Meet](https://img.shields.io/badge/Meet-00897B?style=flat-square&logo=google-meet&logoColor=white&style=for-the-badge)
 ![JIRA](https://img.shields.io/badge/Jira-0079BF?style=flat-square&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
